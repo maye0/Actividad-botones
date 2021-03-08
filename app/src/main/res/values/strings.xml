@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+
+    <string name="text_inicial">Escriba su nombre y escoja su color de preferencia</string>
+    <string name="edit_1">Escriba su Respuesta</string>
+    <string name="Color_Verde">VERDE</string>
+    <string name="Color_Azul">AZUL</string>
+    <string name="Color_Rosado">ROSADO</string>
+    <string name="Color_Amarillo">AMARILLO</string>
+    <string name="Color_Rojo">ROJO</string>
+
+</resources>

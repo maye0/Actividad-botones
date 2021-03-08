@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/botton_background_verde"
+        android:state_enabled="true"
+        />
+    <item android:drawable="@drawable/botton_background_amarillo"
+        android:state_enabled="true"
+        />
+    <item android:drawable="@drawable/botton_background_azul"
+        android:state_enabled="true"
+        />
+    <item android:drawable="@drawable/botton_background_rosado"
+        android:state_enabled="true"
+        />
+    <item android:drawable="@drawable/botton_background_rojo"
+        android:state_enabled="true"
+        />
+</selector>
